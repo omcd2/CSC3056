@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module MiniLabJavaRefresher1SimpleBankingApp {
+}
